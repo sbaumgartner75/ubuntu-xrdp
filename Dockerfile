@@ -44,7 +44,6 @@ RUN apt update && apt -y full-upgrade && apt install -y \
   less \
   locales \
   openssh-server \
-  pepperflashplugin-nonfree \
   pulseaudio \
   sudo \
   supervisor \
